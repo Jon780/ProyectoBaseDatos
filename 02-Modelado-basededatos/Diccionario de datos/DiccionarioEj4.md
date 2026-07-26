@@ -141,4 +141,4 @@ Una empresa se dedica a la venta de productos al por mayor, y necesita registrar
 
 ### Solución ejercicio Relacional
 
-![Solución Ej4](../../img/Relacional/Ejercicio4.png)
+![Solución Ej4](../../Image/RELACIONAL/Ejercicio4.png)

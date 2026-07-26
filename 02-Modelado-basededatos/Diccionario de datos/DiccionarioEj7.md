@@ -249,4 +249,4 @@ Permite controlar la información académica y administrativa de una institució
 
 ### Solución ejercicio Relacional
 
-![Solución Ej7](../../img/Relacional/Ejercicio7.png)
+![Solución Ej7](../../Image/RELACIONAL/Ejercicio7.png)

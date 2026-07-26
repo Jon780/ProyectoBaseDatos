@@ -108,4 +108,4 @@ Tabla: Alumno
 
 ### Solución ejercicio Relacional
 
-![Solución Ej1](../img/Relacional/Ejemplo.png)
+![Solución Ej1](../Image/RELACIONAL/Ejemplo.png)

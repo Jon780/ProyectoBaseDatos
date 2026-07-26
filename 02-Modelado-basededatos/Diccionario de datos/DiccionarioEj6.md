@@ -183,4 +183,4 @@ Permite controlar la estructura organizacional y la participación de empleados 
 
 ### Solución ejercicio Relacional
 
-![Solución Ej6](../../img/Relacional/Ejercicio6.png)
+![Solución Ej6](../../Image/RELACIONAL/Ejercicio6.png)

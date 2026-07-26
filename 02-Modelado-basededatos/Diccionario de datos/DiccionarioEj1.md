@@ -95,4 +95,4 @@ Un hospital registra información de sus pacientes.
 
 ### Solución ejercicio Relacional
 
-![Solución Ej1](../../img/Relacional/Ejercicio1.png)
+![Solución Ej1](../../Image/RELACIONAL/Ejercicio1.png)

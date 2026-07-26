@@ -126,4 +126,4 @@ Una escuela administra alumnos y materias
 
 ### Solución ejercicio Relacional
 
-![Solución Ej3](../../img/Relacional/Ejercicio3.png)
+![Solución Ej3](../../Image/RELACIONAL/Ejercicio3.png)

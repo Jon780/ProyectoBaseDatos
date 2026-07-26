@@ -118,4 +118,4 @@ Una universidad administra profesores y cursos
 
 ### Solución ejercicio Relacional
 
-![Solución Ej2](../../img/Relacional/Ejercicio2.png)
+![Solución Ej2](../../Image/RELACIONAL/Ejercicio2.png)
